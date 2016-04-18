@@ -54,5 +54,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neq
 
 ##### Mentor Soluções - Front End (2016)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo.
+
+# Congressos e Palestras
+
+#### V Congresso Internacional de Software livre e Governo Eletrônico - 2012
+- Criando conteúdo em realidade aumentada pra dispositivos móveis
+
+#### ECOM 2013 - III Seminário Nacional de Comércio Eletrônico, Meios de Pagamentos e Negócios na Web
+
+#### III Fórum da Internet no Brasil/ W3C - 2013
+- HTML5 e CSS3 promovido pela W3C
+
+
+
 
