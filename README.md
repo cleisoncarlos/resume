@@ -35,21 +35,26 @@ Habilidades
    * Metodologias Àgeis Scrum e Kanban, Trello
 
 ###Experiência Profissional
+
+
+** New Tech Vision - Estagio de Instrutor (Informática Básica) 2010 **
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. 
+
+
 **Miso - Designer Gráfico (2010)**
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. 
 
 **Comtato Digital - Front End (2011-2013)**
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo.
-
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. 
 **Enter - Desenvolvedor Wordpress (2014)**
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. P
 
 **Mentor Soluções - Front End (2016)**
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo.
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. 
 
 ###Congressos e Palestras
 
