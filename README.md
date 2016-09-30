@@ -15,15 +15,15 @@ E-mail: cleisoncarlos@htmail.com
 Desde criança gostava muito de arte e tecnologia, são essas algumas de minhas paixões, quando recebi um convite para trabalhar como Designer Gráfico em uma agência, onde permaneci durante 2 anos, quando no período de férias resolvi fazer um curso de "web designer" onde descobri o que realmente eu queria para minha vida. Daí então, comecei buscar cada vez mais conhecimentos nessa área ... (resumindo é isso)
 
 Sou Formado em gestão de Sistemas de Informação e Pós graduado erm Engenharia de Software pela Universidade da Amazônia.
-Habilidades
+
+###Skills
 
    * HTML/CSS e JavaScript
    * Design Responsivo
    * Pré processador SASS
    * Git-Github, Bitbucket
-   * Wordpress
+   * Wordpress Developer
    * Bootstrap
-   * Web / Mobile
    * SEO
    * Conhecimento básico de PHP, MySQL
 
@@ -31,7 +31,6 @@ Habilidades
 
    * Grunt, Bower, Yeoman e Jekyll
    * Git - Github e Bitbucket
-   * Angular JS
    * Metodologias Àgeis Scrum e Kanban, Trello
 
 ###Experiência Profissional
