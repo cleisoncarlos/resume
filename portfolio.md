@@ -1,6 +1,9 @@
 Alguns trabalhos
 ===================
 
+Websites
+-------------
+
 ####[Agência Amapá de Notícias](http://agencia.portaldoamapa.com.br/)
 ####[Prefeitura de São Luis](http://www.saoluis.ma.gov.br/)
 ####[Candidato Jorge Bichara](http://jorgebichara.com.br/)
@@ -10,7 +13,20 @@ Alguns trabalhos
 ####[Dr. Miguel Karton](http://miguelkarton.com.br/)
 ####[Ser Capaz](http://sercapaz.com.br/)
 
-----------
+
+Games
+-------------
+####[Prefeito Simulator - Belém (Android)](https://play.google.com/store/apps/details?id=br.com.mentor1.prefeitosimulatorbelem)
+
+####[Prefeito Simulator - São Paulo (Android)](https://play.google.com/store/apps/details?id=br.com.mentor1.prefeitosimulatorsp)
+
+####[Prefeito Simulator - Macapá (Android)](https://play.google.com/store/apps/details?id=br.com.mentor1.prefeitosimulatormacapa)
+
+
+Apps
+-------------
+
+####[Jorge Bichara 43](https://play.google.com/store/apps/details?id=br.com.mentor.amjb)
 
 
 Projetos em Desenvolvimento
