@@ -1,4 +1,4 @@
-#Cleison Carlos
+# Cleison Carlos
 
 **Desenvolvedor Front End**
 
@@ -10,7 +10,7 @@ Lattes: http://lattes.cnpq.br/4761600367759126
 
 E-mail: cleisoncarlos@htmail.com
 
-###Sobre mim
+### Sobre mim
 
 Meu nome é Cleison Carlos, nascido e Belém, formado em Gestão em Sistemas deInformações com Especialização e Engenharia de Sotware, descobri o mundo dos códigos na adolescência e mantenho esta mesma paixão desde o primeiro dia dessa descoberta. atualmente trabalho como Desenvolvedor Web com foco em Front-End na Mentor, sou rsponsável pela aplicação de boas praticas de UI e UX em interfaces de nossas aplicações ...
 
@@ -20,7 +20,7 @@ Apaixonado de software livre e projetos Open-Source, onde tenho o Wordpress como
 
 Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engenharia de Software pela Universidade da Amazônia.
 
-###Skills
+### Skills
 
    * HTML/CSS e JavaScript
    * Design Responsivo
@@ -31,13 +31,13 @@ Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engen
    * SEO
    * Conhecimento básico de PHP, MySQL
 
-###Ferramentas Front End
+### Ferramentas Front End
 
    * Grunt, Bower, Yeoman e Jekyll
    * Git - Github e Bitbucket
    * Metodologias Àgeis Scrum e Kanban, Trello
 
-###Experiência Profissional
+### Experiência Profissional
 
 
 **Mentor Soluções - Front End (2016)**
@@ -47,7 +47,7 @@ Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engen
 
 
 
-###Congressos e Palestras
+### Congressos e Palestras
 
 * **V Congresso Internacional de Software livre e Governo Eletrônico - 2012**
 
