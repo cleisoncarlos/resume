@@ -33,7 +33,7 @@ Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engen
 
 ### Ferramentas Front End
 
-      * Grunt, Bower, Yeoman e Jekyll
+   * Grunt, Bower, Yeoman e Jekyll
    * Git - Github e Bitbucket
    * Metodologias Àgeis Scrum e Kanban, Trello
 
