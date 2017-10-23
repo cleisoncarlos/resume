@@ -37,13 +37,13 @@ Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engen
    * Git - Github e Bitbucket
    * Metodologias Àgeis Scrum e Kanban, Trello
 
-### Experiência Profissional
+## Experiência Profissional
 
 
-** Mentor Soluções - Front End (2016)
-** Enter - Desenvolvedor Wordpress (2014)
-** Comtato Digital - Front End (2011-2013)
-** Miso - Designer Gráfico (2010)
+* Mentor Soluções - Front End (2016)
+* Enter - Desenvolvedor Wordpress (2014)
+* Comtato Digital - Front End (2011-2013)
+* Miso - Designer Gráfico (2010)
 
 
 
