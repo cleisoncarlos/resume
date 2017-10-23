@@ -12,9 +12,13 @@ E-mail: cleisoncarlos@htmail.com
 
 ###Sobre mim
 
-Desde criança gostava muito de arte e tecnologia, são essas algumas de minhas paixões, quando recebi um convite para trabalhar como Designer Gráfico em uma agência, onde permaneci durante 2 anos, quando no período de férias resolvi fazer um curso de "web designer" onde descobri o que realmente eu queria para minha vida. Daí então, comecei buscar cada vez mais conhecimentos nessa área ... (resumindo é isso)
+Meu nome é Cleison Carlos, nascido e Belém, formado em Gestão em Sistemas deInformações com Especialização e Engenharia de Sotware, descobri o mundo dos códigos na adolescência e mantenho esta mesma paixão desde o primeiro dia dessa descoberta. atualmente trabalho como Desenvolvedor Web com foco em Front-End na Mentor, sou rsponsável pela aplicação de boas praticas de UI e UX em interfaces de nossas aplicações ...
 
-Sou Formado em gestão de Sistemas de Informação e Pós graduado erm Engenharia de Software pela Universidade da Amazônia.
+Acredito que o código deve ser limpo, elegante, otimizado e legível para outros desenvolvedores. Como designer, gosto de informações bem estruturadas, layouts limpos e modernos, utilizo em meus projetos as mais novas ferramentas e frameworks do mercado, sempre buscando aplicar os padrões da W3C para uma Internet mais bonita e inclusiva.
+
+Apaixonado de software livre e projetos Open-Source, onde tenho o Wordpress como minha plataforma de desenvolvimento preferida. 
+
+Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engenharia de Software pela Universidade da Amazônia.
 
 ###Skills
 
@@ -34,21 +38,14 @@ Sou Formado em gestão de Sistemas de Informação e Pós graduado erm Engenhari
    * Metodologias Àgeis Scrum e Kanban, Trello
 
 ###Experiência Profissional
-**Miso - Designer Gráfico (2010)**
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo.
-
-**Comtato Digital - Front End (2011-2013)**
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo.
-
-**Enter - Desenvolvedor Wordpress (2014)**
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo.
 
 **Mentor Soluções - Front End (2016)**
+**Enter - Desenvolvedor Wordpress (2014)**
+**Comtato Digital - Front End (2011-2013)**
+**Miso - Designer Gráfico (2010)**
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie diam id neque maximus blandit. Pellentesque sodales ex nec elit placerat, a sollicitudin lectus semper. Curabitur ultrices, diam sit amet tristique lacinia, metus lectus mattis eros, id hendrerit metus ex ut augue. Phasellus ut facilisis tortor. Sed vel mauris lorem. Pellentesque ornare at velit et sollicitudin. Suspendisse ante massa, feugiat eu sem et, vulputate feugiat ligula. Proin nec neque sed eros vehicula vestibulum eu sed justo.
+
 
 ###Congressos e Palestras
 
@@ -62,5 +59,3 @@ Sou Formado em gestão de Sistemas de Informação e Pós graduado erm Engenhari
 >  HTML5 e CSS3 promovido pela W3C
 
 * **ECOM 2013 - III Seminário Nacional de Comércio Eletrônico, Meios de Pagamentos e Negócios na Web**
-
-
