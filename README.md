@@ -33,9 +33,20 @@ Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engen
 
 ### Ferramentas Front End
 
-   * Grunt, Bower, Yeoman e Jekyll
+      * Grunt, Bower, Yeoman e Jekyll
    * Git - Github e Bitbucket
    * Metodologias Àgeis Scrum e Kanban, Trello
+
+
+
+## Cursos Livres
+
+* CSS (Folhas de estilo) - Fabsoft Cesupa
+* Treinamento PHP Básico - EJI - UFPA
+* Desenvolvimento Wordpress – MX Masters 
+* Grafica Rápida – Comunidade Web 
+ 
+
 
 ## Experiência Profissional
 
@@ -44,6 +55,7 @@ Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engen
 * Enter - Desenvolvedor Wordpress (2014)
 * Comtato Digital - Front End (2011-2013)
 * Miso - Designer Gráfico (2010)
+* New Tech Vision - Intrutor de Informática (2018)
 
 
 
