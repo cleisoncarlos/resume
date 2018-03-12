@@ -8,7 +8,7 @@ Linkedin: https://www.linkedin.com/in/cleisoncarlos
 
 Lattes: http://lattes.cnpq.br/4761600367759126
 
-E-mail: cleisoncarlos@htmail.com
+E-mail: cleisoncarlos@hotmail.com
 
 ### Sobre mim
 
@@ -16,7 +16,7 @@ Meu nome é Cleison Carlos, nascido e Belém, formado em Gestão em Sistemas deI
 
 Acredito que o código deve ser limpo, elegante, otimizado e legível para outros desenvolvedores. Como designer, gosto de informações bem estruturadas, layouts limpos e modernos, utilizo em meus projetos as mais novas ferramentas e frameworks do mercado, sempre buscando aplicar os padrões da W3C para uma Internet mais bonita e inclusiva.
 
-Apaixonado de software livre e projetos Open-Source, onde tenho o Wordpress como minha plataforma de desenvolvimento preferida. 
+Apaixonado de software livre e projetos Open-Source 
 
 Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engenharia de Software pela Universidade da Amazônia.
 
