@@ -5,6 +5,8 @@
 #Últimos Projetos Publicados
 
 
+[Oliveira Filho Advogados](http://oliveirafilhoadvogados.com.br/)
+
 [Datasafer](http://appliance.datasafer.com.br/)
 
 [Sindju](http://mentorsites.com.br/sindju/)
@@ -19,6 +21,12 @@
 
 --------------
 ##Em desenvolvimento
+
+[Dentista](http://mentorsites.com.br/saudebucal)
+
+[Landing Page Datasafer](http://mentorsites.com.br/datasafer)
+
+[Sindicato](http://mentorsites.com.br/sindicato/)
 
 [Aline Gurgel](http://mentorsites.com.br/alinegurgel)
 
