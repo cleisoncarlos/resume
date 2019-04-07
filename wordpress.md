@@ -6,11 +6,13 @@
 
 [Dr. numeros](http://drnumeros.com.br/)
 
+[Síndica](http://sindica.com.br/)
+
 [Oliveira Filho Advogados](http://oliveirafilhoadvogados.com.br/)
 
 [Datasafer](http://appliance.datasafer.com.br/)
 
-[Sindju](http://mentorsites.com.br/sindju/)
+[Sindju](http://sindju.org.br/)
 
 [Prefeitura de São Luiz - MA](https://www.saoluis.ma.gov.br/)
 
