@@ -3,6 +3,11 @@
 
 --------------
 #Últimos Projetos Publicados
+[Governo do Estado do Pará] (https://www.pa.gov.br/)
+
+[Agência de Notícias do Estado do Pará](https://agenciapara.com.br/)
+
+[ALEPA - Assembléia Legislativa do estado do Pará](https://www.alepa.pa.gov.br/)
 
 [Dr. numeros](http://drnumeros.com.br/)
 
