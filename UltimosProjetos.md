@@ -2,7 +2,8 @@
 
 
 --------------
-##Últimos Projetos Publicados
+
+## Últimos Projetos Publicados
 
 [Governo do Estado do Pará](https://www.pa.gov.br/)
 
@@ -22,9 +23,9 @@
 
 [Prefeitura de São Luiz - MA](https://www.saoluis.ma.gov.br/)
 
-[Total Casa] (http://totalcasaservicos.com.br/)
+[Total Casa](http://totalcasaservicos.com.br/)
 
-[Asa Construtora] (http://construtoraasa.com.br)
+[Asa Construtora](http://construtoraasa.com.br)
 
 [w3com](http://www.w3com.com.br/)
 
@@ -32,8 +33,8 @@
 
 [Euqbrinq](http://eduqbrinq.com.br/)
 
---------------
-##Em desenvolvimento
+
+## Em desenvolvimento
 
 [Dentista](http://mentorsites.com.br/saudebucal)
 
@@ -74,6 +75,7 @@
 [Transparência São Luiz](http://mentorsites.com.br/transparenciasaoluis/)
 
 [Vereadores](http://mentorsites.com.br/vereadores)
+
 
 
 
