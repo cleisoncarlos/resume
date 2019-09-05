@@ -23,6 +23,8 @@
 
 [Prefeitura de São Luiz - MA](https://www.saoluis.ma.gov.br/)
 
+[Motor News](http://motornewsonline.com.br/)
+
 [Total Casa](http://totalcasaservicos.com.br/)
 
 [Asa Construtora](http://construtoraasa.com.br)
