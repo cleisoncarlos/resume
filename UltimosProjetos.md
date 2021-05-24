@@ -17,8 +17,6 @@
 
 [Síndica](http://sindica.com.br/)
 
-[Oliveira Filho Advogados](http://oliveirafilhoadvogados.com.br/)
-
 [Sindju](http://sindju.org.br/)
 
 [Prefeitura de São Luiz - MA](https://www.saoluis.ma.gov.br/)
@@ -34,6 +32,8 @@
 [Mentor Inteligência](http://mentorinteligencia.com.br/)
 
 [Euqbrinq](http://eduqbrinq.com.br/)
+
+
 
 
 
