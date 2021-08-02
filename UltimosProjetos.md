@@ -11,7 +11,7 @@
 
 [ALEPA - Assembléia Legislativa do estado do Pará](https://www.alepa.pa.gov.br/)
 
-[Prefeitura de castanhal] (http://www2.castanhal.pa.gov.br)
+[Prefeitura de castanhal](http://www2.castanhal.pa.gov.br)
 
 [Dr. numeros](http://drnumeros.com.br/)
 
