@@ -9,9 +9,15 @@
 
 [Agência de Notícias do Estado do Pará](https://agenciapara.com.br/)
 
+[Museus do Pará](https://museus.pa.gov.br/)
+
 [ALEPA - Assembléia Legislativa do estado do Pará](https://www.alepa.pa.gov.br/)
 
 [Prefeitura de castanhal](http://www2.castanhal.pa.gov.br)
+
+[Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg)](https://sbseg2021.ufpa.br/)
+
+[Feira do Livro 2021 Pará](http://feiradolivroedasmultivozes.com.br/)
 
 [Dr. numeros](http://drnumeros.com.br/)
 
@@ -24,6 +30,8 @@
 [Prefeitura de São Luiz - MA](https://www.saoluis.ma.gov.br/)
 
 [Motor News](http://motornewsonline.com.br/)
+
+[O Estado do Pará](https://oestadodopara.com)
 
 [Total Casa](http://totalcasaservicos.com.br/)
 
