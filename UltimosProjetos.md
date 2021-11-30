@@ -44,6 +44,7 @@
 [Mentor Inteligência](http://mentorinteligencia.com.br/)
 
 [Euqbrinq](http://eduqbrinq.com.br/)
+
 [Maestria da Saúde](https://maestriadasaude.com.br/)
 
 
