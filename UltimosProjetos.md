@@ -15,7 +15,11 @@
 
 [ALEPA - Assembléia Legislativa do estado do Pará](https://www.alepa.pa.gov.br/)
 
-[Prefeitura de castanhal](http://www2.castanhal.pa.gov.br)
+[Prefeitura de Castanhal - PA](http://www2.castanhal.pa.gov.br)
+
+[Prefeitura de Benevides - PA](https://benevides.pa.gov.br/)
+
+[Prefeitura de Altamira - PA](https://altamira.mentorserver.com.br/)
 
 [Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg)](https://sbseg2021.ufpa.br/)
 
