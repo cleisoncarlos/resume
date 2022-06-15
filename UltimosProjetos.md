@@ -15,6 +15,8 @@
 
 [ALEPA - Assembléia Legislativa do estado do Pará](https://www.alepa.pa.gov.br/)
 
+[Prefeitura de Ananindeua - PA](https://www.ananindeua.pa.gov.br/)
+
 [Prefeitura de Castanhal - PA](http://www2.castanhal.pa.gov.br)
 
 [Prefeitura de Benevides - PA](https://benevides.pa.gov.br/)
