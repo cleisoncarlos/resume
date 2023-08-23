@@ -37,9 +37,9 @@
 
 [Prefeitura de São Luiz - MA](https://www.saoluis.ma.gov.br/)
 
-[Blog The Men's](blog.themens.com.br/)
+[Blog The Men's](https://blog.themens.com.br/)
 
-[Motor News](http://motornewsonline.com.br/)
+[Motor News](https://motornewsonline.com.br/)
 
 [O Estado do Pará](https://oestadodopara.com)
 
