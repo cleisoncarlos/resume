@@ -18,52 +18,9 @@ Acredito que o código deve ser limpo, elegante, otimizado e legível para outro
 
 Apaixonado de software livre e projetos Open-Source 
 
-Sou Formado em gestão de Sistemas de Informação com Pós graduação em Engenharia de Software pela Universidade da Amazônia.
-
-### Skills
-
-   * HTML/CSS e JavaScript
-   * Design Responsivo
-   * Pré processador SASS
-   * Git-Github, Bitbucket
-   * Wordpress Developer
-   * Bootstrap
-   * SEO
-   * Conhecimento básico de PHP, MySQL
-
-### Ferramentas Front End
-
-   * Grunt, Bower, Yeoman e Jekyll
-   * Git - Github e Bitbucket
-   * Metodologias Àgeis Scrum e Kanban, Trello
+Sou Formado em gestão de Sistemas de Informação com Especialização em Engenharia de Software pela Universidade da Amazônia.
 
 
-
-## Cursos Livres
-
-* CSS (Folhas de estilo) - Fabsoft Cesupa
-* Treinamento PHP Básico - EJI - UFPA
-* Desenvolvimento Wordpress – MX Masters 
-* Grafica Rápida – Comunidade Web 
- 
-
-
-## Experiência Profissional
-
-
-* Mentor Soluções - Front End (2016)
-* Enter - Desenvolvedor Wordpress (2014)
-* Comtato Digital - Front End (2011-2013)
-* Miso - Designer Gráfico (2010)
-* New Tech Vision - Intrutor de Informática (2018)
-
-
-
-### Congressos e Palestras
-
-* **V Congresso Internacional de Software livre e Governo Eletrônico - 2012**
-
-> Criando conteúdo em realidade aumentada pra dispositivos móveis
 
 
 * **III Fórum da Internet no Brasil/ W3C - 2013**
