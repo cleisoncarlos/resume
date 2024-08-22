@@ -59,6 +59,9 @@
 
 [Maestria da Saúde](https://maestriadasaude.com.br/)
 
+[Parquimica ( em desenvolvimento ) ] (https://www.parquimica.com.br/)
+
+
 
 
 
